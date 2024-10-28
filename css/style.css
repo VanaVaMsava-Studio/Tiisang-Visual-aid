@@ -132,7 +132,7 @@ h1, h2, h3, h4, h5,
 
 .btn.btn-outline-white:hover {
   background: #fff;
-  color: #b41638 !important;
+  color: #ea728c !important;
 }
 
 .btn.btn-md {
@@ -154,7 +154,7 @@ h1, h2, h3, h4, h5,
 }
 
 .form-control:active, .form-control:focus {
-  border-color: #31010b;
+  border-color: #ea728c;
 }
 
 .form-control:hover, .form-control:active, .form-control:focus {

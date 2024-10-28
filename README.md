@@ -1,1 +1,0 @@
-# Tiisang-Visual-aid
